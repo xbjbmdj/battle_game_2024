@@ -161,7 +161,7 @@ bool zmdzg1::IsHit(glm::vec2 position) const {
 }
 
 const char *zmdzg1::UnitName() const {
-  return "ZMDZ G1";
+  return "Odd-Even Tank";
 }
 
 const char *zmdzg1::Author() const {
